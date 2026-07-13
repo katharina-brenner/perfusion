@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="680" viewBox="0 0 980 680" role="img">
+<text x="490.00" y="54.00" font-family="Arial" font-size="22.0" font-weight="bold" fill="#1A1A1A" text-anchor="middle" dominant-baseline="middle">Medium intensity of batch and perfusion scenarios</text>
+<text x="490.00" y="92.00" font-family="Arial" font-size="15.0" font-weight="normal" fill="#4D4D4D" text-anchor="middle" dominant-baseline="middle">Values are normalized to dry cell weight (DCW) and total biomass output.</text>
+<line x1="180.00" y1="490.00" x2="910.00" y2="490.00" stroke="#2A2A2A" stroke-width="1.8"/>
+<line x1="180.00" y1="150.00" x2="180.00" y2="490.00" stroke="#2A2A2A" stroke-width="1.8"/>
+<line x1="180.00" y1="150.00" x2="180.00" y2="490.00" stroke="#D9D9D9" stroke-width="1.1"/>
+<text x="180.00" y="526.00" font-family="Arial" font-size="14.0" font-weight="normal" fill="#444444" text-anchor="middle" dominant-baseline="middle">0</text>
+<line x1="342.22" y1="150.00" x2="342.22" y2="490.00" stroke="#D9D9D9" stroke-width="1.1"/>
+<text x="342.22" y="526.00" font-family="Arial" font-size="14.0" font-weight="normal" fill="#444444" text-anchor="middle" dominant-baseline="middle">10</text>
+<line x1="504.44" y1="150.00" x2="504.44" y2="490.00" stroke="#D9D9D9" stroke-width="1.1"/>
+<text x="504.44" y="526.00" font-family="Arial" font-size="14.0" font-weight="normal" fill="#444444" text-anchor="middle" dominant-baseline="middle">20</text>
+<line x1="666.67" y1="150.00" x2="666.67" y2="490.00" stroke="#D9D9D9" stroke-width="1.1"/>
+<text x="666.67" y="526.00" font-family="Arial" font-size="14.0" font-weight="normal" fill="#444444" text-anchor="middle" dominant-baseline="middle">30</text>
+<line x1="828.89" y1="150.00" x2="828.89" y2="490.00" stroke="#D9D9D9" stroke-width="1.1"/>
+<text x="828.89" y="526.00" font-family="Arial" font-size="14.0" font-weight="normal" fill="#444444" text-anchor="middle" dominant-baseline="middle">40</text>
+<text x="545.00" y="568.00" font-family="Arial" font-size="16.0" font-weight="bold" fill="#1A1A1A" text-anchor="middle" dominant-baseline="middle">Medium consumption (L kg-1)</text>
+<text x="160.00" y="230.00" font-family="Arial" font-size="15.0" font-weight="bold" fill="#1A1A1A" text-anchor="end" dominant-baseline="middle">DCW-normalized</text>
+<rect x="180.00" y="174.00" width="656.24" height="28.00" fill="#0072B2" stroke="none" stroke-width="0.0"/>
+<text x="848.24" y="188.00" font-family="Arial" font-size="14.0" font-weight="normal" fill="#222222" text-anchor="start" dominant-baseline="middle">40.5</text>
+<rect x="180.00" y="216.00" width="543.45" height="28.00" fill="#D55E00" stroke="none" stroke-width="0.0"/>
+<text x="735.45" y="230.00" font-family="Arial" font-size="14.0" font-weight="normal" fill="#222222" text-anchor="start" dominant-baseline="middle">33.5</text>
+<rect x="180.00" y="258.00" width="543.44" height="28.00" fill="#009E73" stroke="none" stroke-width="0.0"/>
+<text x="735.44" y="272.00" font-family="Arial" font-size="14.0" font-weight="normal" fill="#222222" text-anchor="start" dominant-baseline="middle">33.5</text>
+<text x="160.00" y="395.00" font-family="Arial" font-size="15.0" font-weight="bold" fill="#1A1A1A" text-anchor="end" dominant-baseline="middle">Biomass-normalized</text>
+<rect x="180.00" y="339.00" width="196.87" height="28.00" fill="#0072B2" stroke="none" stroke-width="0.0"/>
+<text x="388.87" y="353.00" font-family="Arial" font-size="14.0" font-weight="normal" fill="#222222" text-anchor="start" dominant-baseline="middle">12.1</text>
+<rect x="180.00" y="381.00" width="163.03" height="28.00" fill="#D55E00" stroke="none" stroke-width="0.0"/>
+<text x="355.03" y="395.00" font-family="Arial" font-size="14.0" font-weight="normal" fill="#222222" text-anchor="start" dominant-baseline="middle">10.1</text>
+<rect x="180.00" y="423.00" width="163.03" height="28.00" fill="#009E73" stroke="none" stroke-width="0.0"/>
+<text x="355.03" y="437.00" font-family="Arial" font-size="14.0" font-weight="normal" fill="#222222" text-anchor="start" dominant-baseline="middle">10.0</text>
+<rect x="275.00" y="600.00" width="24.00" height="24.00" fill="#0072B2" stroke="none" stroke-width="0.0"/>
+<text x="309.00" y="612.00" font-family="Arial" font-size="14.0" font-weight="normal" fill="#1A1A1A" text-anchor="start" dominant-baseline="middle">Perfusion</text>
+<rect x="485.00" y="600.00" width="24.00" height="24.00" fill="#D55E00" stroke="none" stroke-width="0.0"/>
+<text x="519.00" y="612.00" font-family="Arial" font-size="14.0" font-weight="normal" fill="#1A1A1A" text-anchor="start" dominant-baseline="middle">Batch large</text>
+<rect x="695.00" y="600.00" width="24.00" height="24.00" fill="#009E73" stroke="none" stroke-width="0.0"/>
+<text x="729.00" y="612.00" font-family="Arial" font-size="14.0" font-weight="normal" fill="#1A1A1A" text-anchor="start" dominant-baseline="middle">Batch local</text>
+</svg>
